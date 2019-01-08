@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Blue",
+      "display_name": "Blue-display",
+      "description": "its blue"
+    },
+    {
+      "id": 2,
+      "name": "Red",
+      "display_name": "Red-display",
+      "description": "its red"
+    },
+    {
+      "id": 3,
+      "name": "yellow",
+      "display_name": "yellow-display",
+      "description": "its yellow"
+    },
+    {
+      "id": 4,
+      "name": "orange",
+      "display_name": "orange-display",
+      "description": "its orange"
+    },
+    {
+      "name": "b",
+      "display_name": "b-display",
+      "description": "its b",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "blue-ish",
+      "name": "blue-product",
+      "display_name": "blue-product-display",
+      "description": "its blue-product"
+    },
+    {
+      "id": 2,
+      "category": "red-ish",
+      "name": "red-product",
+      "display_name": "red-product-display",
+      "description": "its red-product"
+    },
+    {
+      "id": 3,
+      "category": "yellow-ish",
+      "name": "yellow-product",
+      "display_name": "yellow-product-display",
+      "description": "its yellow-product"
+    },
+    {
+      "id": 4,
+      "category": "orange-ish",
+      "name": "orange-product",
+      "display_name": "orange-product-display",
+      "description": "its orange-product"
+    }
+  ]
+}
